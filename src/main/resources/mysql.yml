@@ -1,0 +1,6 @@
+host: localhost
+port: 3306
+database: bedwars
+username: root
+password: ''
+table: bwstats

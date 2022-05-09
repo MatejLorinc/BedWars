@@ -1,0 +1,114 @@
+maps:
+  map:
+    teams:
+      red:
+        spawn:
+          x: 0
+          y: 0
+          z: 0
+          yaw: 0
+          pitch: 0
+        item-shop:
+          x: 0
+          y: 0
+          z: 0
+          yaw: 0
+          pitch: 0
+        bed:
+          - x: 0
+            y: 0
+            z: 0
+          - x: 0
+            y: 0
+            z: 0
+      yellow:
+        spawn:
+          x: 0
+          y: 0
+          z: 0
+          yaw: 0
+          pitch: 0
+        item-shop:
+          x: 0
+          y: 0
+          z: 0
+          yaw: 0
+          pitch: 0
+        bed:
+          - x: 0
+            y: 0
+            z: 0
+          - x: 0
+            y: 0
+            z: 0
+      green:
+        spawn:
+          x: 0
+          y: 0
+          z: 0
+          yaw: 0
+          pitch: 0
+        item-shop:
+          x: 0
+          y: 0
+          z: 0
+          yaw: 0
+          pitch: 0
+        bed:
+          - x: 0
+            y: 0
+            z: 0
+          - x: 0
+            y: 0
+            z: 0
+      blue:
+        spawn:
+          x: 0
+          y: 0
+          z: 0
+          yaw: 0
+          pitch: 0
+        item-shop:
+          x: 0
+          y: 0
+          z: 0
+          yaw: 0
+          pitch: 0
+        bed:
+          - x: 0
+            y: 0
+            z: 0
+          - x: 0
+            y: 0
+            z: 0
+    spawners:
+      bronze:
+        - x: 0
+          y: 0
+          z: 0
+        - x: 0
+          y: 0
+          z: 0
+        - x: 0
+          y: 0
+          z: 0
+        - x: 0
+          y: 0
+          z: 0
+      iron:
+        - x: 0
+          y: 0
+          z: 0
+        - x: 0
+          y: 0
+          z: 0
+      gold:
+        - x: 0
+          y: 0
+          z: 0
+        - x: 0
+          y: 0
+          z: 0
+        - x: 0
+          y: 0
+          z: 0

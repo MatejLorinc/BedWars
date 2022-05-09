@@ -1,0 +1,4 @@
+name: BedWars
+version: '${project.version}'
+main: me.math3w.bedwars.BedWarsPlugin
+author: _Math3w_
